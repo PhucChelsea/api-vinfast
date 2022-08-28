@@ -1,0 +1,43 @@
+@baseUrl = http://localhost:3000/api
+
+@resourceName=versionList
+
+# @name getAll
+
+GET {{baseUrl}}/{{resourceName}}
+
+####
+
+
+# @name filterVersion
+
+GET {{baseUrl}}/{{resourceName}}?versionTypeName=Eco
+
+####
+
+# @name addNew
+
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+####
+
+
+# @name update
+
+PATCH    {{baseUrl}}/{{resourceName}}/1
+Content-Type: application/json
+
+{
+    "name":"Ô tô xăng"
+}
+#####
+
+PATCH    {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "name":"Ô tô điện"
+}
+
+#####

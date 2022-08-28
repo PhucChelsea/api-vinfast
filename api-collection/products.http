@@ -1,0 +1,44 @@
+@baseUrl = http://localhost:3000/api
+
+@resourceName=products
+
+# @name getAll
+
+GET {{baseUrl}}/{{resourceName}}
+
+####
+
+# @name addNew
+
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+####
+
+# @name filter
+
+GET {{baseUrl}}/{{resourceName}}?categoryName=Ô tô xăng
+
+
+
+####
+
+
+# @name update
+
+PATCH    {{baseUrl}}/{{resourceName}}/1
+Content-Type: application/json
+
+{
+    "name":"Ô tô xăng"
+}
+#####
+
+PATCH    {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "name":"Ô tô điện"
+}
+
+#####
