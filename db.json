@@ -117,6 +117,19 @@
         "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
         "createdAt": 1661585163020,
         "updatedAt": 1661585163020
+      },
+      {
+        "id": 1,
+        "categoryId": 2,
+        "categoryName": "Ô tô điệnÂBc",
+        "productType": 1,
+        "productTypeName": "C-SUV",
+        "name": "VFe 34ấda",
+        "price": 690000000,
+        "imageProduct": "https://cdn.24h.com.vn/upload/1-2021/images/2021-03-25/Thong-so-chi-tiet-o-to-thuan-dien-11-1616647223-177-width660height371.jpg",
+        "description": "VinFast ra mắt VF e34, mẫu C-SUV với thiết kế tinh tế, thân thiện với người dùng cùng loạt công nghệ thông minh hiện đại, hứa hẹn nâng tầm trải nghiệm Khách hàng",
+        "createdAt": 1661585163017,
+        "updatedAt": 1661585163017
       }
     ],
     "versionList": [

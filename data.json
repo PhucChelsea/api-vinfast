@@ -117,6 +117,19 @@
       "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
       "createdAt": 1661585163020,
       "updatedAt": 1661585163020
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "categoryName": "Ô tô xăngaa",
+      "productType": 3,
+      "productTypeName": "HATCH BACK",
+      "name": "FADILaa",
+      "price": 382500000,
+      "imageProduct": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2022/1/12/994053/6.jpg",
+      "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
+      "createdAt": 1661585163020,
+      "updatedAt": 1661585163020
     }
   ],
   "versionList": [
